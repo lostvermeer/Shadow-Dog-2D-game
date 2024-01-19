@@ -5,7 +5,11 @@
 //This is 2D game that I wrote(copied 😅) following tutorial on youtube -> https://youtu.be/GFO_txvwK_c
 //Using HTML, CSS and vanilla JavaScript 🙈
 
- //I want to make this game fully fuctional with Frontend and Backend -> Todo:
+ //I want to make this game fully functional with Frontend and Backend ->
+//Ongoing:
+ //Enemy sound effect
+
+//Todo:
  //Initialize authorization/authentication
  //Set up database, so that user info will be stored
  //Bug fix
