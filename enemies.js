@@ -43,12 +43,17 @@ export class FlyingEnemy extends Enemy {
         this.image = document.getElementById('enemy_fly');
         this.angel = 0;
         this.va = Math.random() * 0.1 + 0.1;
+        this.sound = new Audio();
+        this.sound.src = 'assets/sound/impactsplat02.mp3.flac'
     }
     
     update (deltaTime) {
         super.update(deltaTime);
         this.angel += this.va;
         this.y += Math.sin(this.angel)
+    }
+    soundEffect () {
+        this.sound.play();
     }
 }
 
@@ -64,7 +69,13 @@ export class GroundEnemy extends Enemy {
         this.speedX = 0;
         this.speedY = 0;
         this.maxFrame = 1;
+        this.sound = new Audio();
+        this.sound.src = 'assets/sound/impactsplat03.mp3.flac'
 
+    }
+
+    soundEffect () {
+        this.sound.play();
     }
 }
 
@@ -80,6 +91,8 @@ export class ClimbingEnemy extends Enemy {
         this.speedX = 0;
         this.speedY = Math.random() > 0.5 ? 1 : -1;
         this.maxFrame = 5;
+        this.sound = new Audio();
+        this.sound.src = 'assets/sound/impactsplat06.mp3.flac'
     }
 
     update (deltaTime) {
@@ -93,5 +106,8 @@ export class ClimbingEnemy extends Enemy {
         context.moveTo(this.x + this.width/2, 0)
         context.lineTo(this.x + this.width/2, this.y + 50)
         context.stroke();
+    }
+    soundEffect () {
+        this.sound.play();
     }
 }
