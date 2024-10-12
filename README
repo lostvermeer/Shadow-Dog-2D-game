@@ -1,23 +1,25 @@
-#Shadow Dog game 🐕🎮 Please use GitHub pages to view the game
-//Hi there 👋
+#Shadow Dog game 🐕🎮 
+##Please use GitHub pages to view the game
 
-//Project name: Shadow Dog game 🐕🐶🎮🕹
+Hi there 👋
 
-//This is 2D game that I wrote(copied 😅) following tutorial on youtube -> https://youtu.be/GFO_txvwK_c
-//Using HTML, CSS and vanilla JavaScript 🙈
+Project name: Shadow Dog game 🐕🐶🎮🕹
 
- //I want to make this game fully functional with Frontend and Backend ->
-//Ongoing:
- //Enemy sound effect
+This is 2D game that I wrote(copied 😅) following tutorial on youtube -> https://youtu.be/GFO_txvwK_c
+Using HTML, CSS and vanilla JavaScript 🙈
 
-//Todo:
- //Initialize authorization/authentication
- //Set up database, so that user info will be stored
- //Bug fix
- //Feature implementation
+ I want to make this game fully functional with Frontend and Backend ->
+###Ongoing:
+ Enemy sound effect
+
+###Todo:
+ Initialize authorization/authentication
+ Set up database, so that user info will be stored
+ Bug fix
+ Feature implementation
 
 
- //If you want to contact me please use my email: lost.vermeeer@gmail.com
+ If you want to contact me please use my email: lost.vermeeer@gmail.com
 
-# Art assets are taken from this great artist: https://bevouliin.com/
-# Sound effects assets were taken from: https://opengameart.org/
+*Art assets are taken from this great artist: https://bevouliin.com/
+*Sound effects assets were taken from: https://opengameart.org/
