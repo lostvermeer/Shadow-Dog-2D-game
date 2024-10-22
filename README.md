@@ -1,7 +1,7 @@
-### Shadow Dog game 🚀🐶 
+# Shadow Dog game 🚀🐶 
 ## To view the game please click [here](https://lostvermeer.github.io/Shadow-Dog-2D-game/)
-# Please start the game with -> (arrow right) key
-# Please refresh the page when the game is over
+### Please start the game with ➡ (arrow right) key
+### Please refresh the page when the game is over
 
 Hi there 👋
 
