@@ -7,7 +7,7 @@ Hi there 👋
 
 Project name: Shadow Dog game 🐕🐶🎮🕹
 
-This is 2D game that I wrote(copied 😅) following tutorial on youtube -> https://youtu.be/GFO_txvwK_c
+This is 2D game that I developed (copied 😅) following tutorial on [youtube](https://youtu.be/GFO_txvwK_c)
 Using HTML, CSS and vanilla JavaScript 🙈
 
  I want to make this game fully functional with Frontend and Backend ->
